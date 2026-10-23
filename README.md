@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Doom-2016-Save-Editor` · Updated: 2026-10-07
+`Doom-2016-Save-Editor` · Updated: 2026-10-24
 
 **Tags:** `doom-2016` `save-editor` `fps` `idtech` `steam`
